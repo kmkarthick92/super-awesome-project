@@ -1,1 +1,1 @@
-# super-awesome-project
+# awesome-project
